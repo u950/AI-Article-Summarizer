@@ -8,11 +8,10 @@ const Hero = () => {
             {/* <nav className="flex justify-between items-center flex-col ">
                 <img src={logo} alt="summary logo"  className="w-20 object-contain size-12"/>
             </nav> */}
-            <h1 className="head_text">
-                Summarize Articles 
-                <span className="orange_gradient">Master the Blaster</span>
+            <h1 className="head_text orange_gradient">
+                Summarize Articles
             </h1>
-            <h2>This app summarises the web pages effectively using power of AI</h2>
+            <h2>This app summarises the web articles and web pages pages effectively using power of AI.</h2>
 
         </header>
     );
