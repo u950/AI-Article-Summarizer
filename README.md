@@ -8,6 +8,6 @@ screenshot below of main page:
 
 ### docker image
 run ```docker pull uday680/article-summarizer-ai-app:v1.0 ``` <br/>
-run ``` docker run -d -p 80:80 uday680/aarticle-summarizer-ai-app:v1.0 ```
+run ``` docker run -d -p 80:80 uday680/article-summarizer-ai-app:v1.0 ```
 
 open localhost in browser 
